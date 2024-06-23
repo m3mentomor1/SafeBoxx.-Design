@@ -33,6 +33,7 @@ View full project [here](https://github.com/m3mentomor1/SafeBoxx.).
 
 #### ✅ Threat Modeling
 
+![Threat Modeling](https://github.com/m3mentomor1/SafeBoxx.-Design/assets/95956735/978aa983-63c0-4826-8ee7-85597cee2634)
 <br><br><br>
 
 #### ✅ Permission Auditing
