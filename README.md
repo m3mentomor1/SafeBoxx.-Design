@@ -9,7 +9,7 @@
 
 This repo contains design mockups for a project called **SafeBoxx.**, an automated threat-modeling mobile app designed to identify potential privacy and security threats and vulnerabilities in social media applications, including a list of countermeasures to mitigate these identified risks.
 
-**SafeBoxx.** is a hackathon project that became one of the *Top 11 National Finalists** at the *Microsoft Imagine Cup 2023: Phillippine National Finals*.
+**SafeBoxx.** is a hackathon project that became one of the *Top 11 National Finalists* at the *Microsoft Imagine Cup 2023: Phillippine National Finals*.
 
 View full project [here](https://github.com/m3mentomor1/SafeBoxx.).
 <br><br>
