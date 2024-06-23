@@ -19,6 +19,7 @@ View full project [here](https://github.com/m3mentomor1/SafeBoxx.).
 
 #### ✅ User Authentication
 
+![Sign in](https://github.com/m3mentomor1/SafeBoxx.-Design/assets/95956735/58500787-f8cf-4d9d-b8e7-e0491210936f)
 <br><br><br>
 
 #### ✅ Home Navigation
