@@ -38,6 +38,7 @@ View full project [here](https://github.com/m3mentomor1/SafeBoxx.).
 
 #### ✅ Permission Auditing
 
+![Permission](https://github.com/m3mentomor1/SafeBoxx.-Design/assets/95956735/4a83607a-0fc1-4340-af53-53f22bf38172)
 <br><br><br>
 
 Figma Link/s: 
