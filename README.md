@@ -17,7 +17,19 @@ View full project [here](https://github.com/m3mentomor1/SafeBoxx.).
 
 ### 👀 II. Preview
 
-#### ✅ User Sign in
+#### ✅ User Authentication
+
+<br><br><br>
+
+#### ✅ Home Navigation
+
+<br><br><br>
+
+#### ✅ Threat Modeling
+
+<br><br><br>
+
+#### ✅ Permission Auditing
 
 <br><br><br>
 
