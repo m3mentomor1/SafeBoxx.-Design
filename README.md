@@ -22,7 +22,7 @@ View full project [here](https://github.com/m3mentomor1/SafeBoxx.).
 <br><br><br>
 
 Figma Link/s: 
-- [Design View]()
+- [Design View](https://www.figma.com/design/fcQUGNiNTUBdq6ED8l6KZO/SafeBoxx.?node-id=53096-27271&t=fmsxWtZYI37RHfku-1)
 - [Prototype View (Screen & Button Navigation)]()
 <br><br>
 ##
