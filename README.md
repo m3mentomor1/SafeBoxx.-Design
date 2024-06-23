@@ -27,6 +27,8 @@ View full project [here](https://github.com/m3mentomor1/SafeBoxx.).
 #### ✅ Home Navigation
 
 ![Bottom Nav-home](https://github.com/m3mentomor1/SafeBoxx.-Design/assets/95956735/99627e84-0c81-4975-8234-2e01cc583810)
+
+![Side Nav-home](https://github.com/m3mentomor1/SafeBoxx.-Design/assets/95956735/4203d5b9-b1a3-4778-a4fe-8da49aef915d)
 <br><br><br>
 
 #### ✅ Threat Modeling
