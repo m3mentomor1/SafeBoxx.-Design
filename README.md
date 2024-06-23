@@ -16,3 +16,17 @@ View full project [here](https://github.com/m3mentomor1/SafeBoxx.).
 ##
 
 ### 👀 II. Preview
+
+#### ✅ User Sign in
+
+<br><br><br>
+
+Figma Link/s: 
+- [Design View]()
+- [Prototype View (Screen & Button Navigation)]()
+<br><br>
+##
+
+### 💻 III. Tools Used
+
+``Figma`` ``Canva`` ``Photopea`` ``Material Design 3``
